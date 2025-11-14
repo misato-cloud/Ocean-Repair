@@ -21,6 +21,11 @@ li{
  
 }
 
+.header-list li{
+  float: left;
+  padding: 33px 20px;
+}
+
 .main {
   background-color: #bdf7f1;
   height: 600px;
