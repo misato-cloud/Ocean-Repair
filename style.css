@@ -26,9 +26,18 @@ li{
 }
 
 .main {
-  background-color: #bdf7f1;
-  height: 600px;
+  padding:100px 80px;
 }
+
+.copy-container h1{
+  font-size:140px;
+
+
+/* copy-containerの中のh2のfont-sizeを指定してください */
+.copy-container h2{
+  font-size:60px;
+}
+
 
 .footer {
   background-color: #2f5167;
